@@ -1,0 +1,33 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# pytest specific
+pytestdebug.log
+
+# Logs
+*.log
+*.out
+*.err
+
+# Local config files
+*.local
+*.env
+
+# macOS system files
+.DS_Store
+
+# IDE settings
+.vscode/

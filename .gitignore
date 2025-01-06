@@ -14,6 +14,7 @@ ENV/
 env.bak/
 venv.bak/
 
+
 # pytest specific
 pytestdebug.log
 
@@ -31,3 +32,5 @@ pytestdebug.log
 
 # IDE settings
 .vscode/
+
+*.txt
